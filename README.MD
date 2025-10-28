@@ -17,7 +17,7 @@ mkdir temp
 mv data/.env.copy data/.env
 ```
 
-put token in .env file
+put token in .env file at this point
 
 ```bash
 python -m venv .venv
