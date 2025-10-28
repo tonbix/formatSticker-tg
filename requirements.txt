@@ -1,0 +1,4 @@
+aiogram
+TGCrypto
+opencv-python
+python-dotenv
