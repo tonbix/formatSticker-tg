@@ -1,8 +1,7 @@
 from aiogram import Bot, Dispatcher, F
 from aiogram.client.default import DefaultBotProperties
 from aiogram.filters import CommandStart, Command
-from aiogram.types import Message, FSInputFile, PhotoSize, Document
-from aiogram.enums import ParseMode, ChatType, ContentType
+from aiogram.types import Message, FSInputFile, PhotoSize, Document from aiogram.enums import ParseMode, ChatType, ContentType
 from cv2 import imread, imwrite, resize, IMREAD_UNCHANGED
 from dotenv import load_dotenv
 from asyncio import run
