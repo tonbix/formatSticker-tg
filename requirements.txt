@@ -1,4 +1,5 @@
-aiogram
+telethon
 TGCrypto
 opencv-python
 python-dotenv
+python-socks
